@@ -1,5 +1,5 @@
 # t4lh8
-# Hi, I am m Talha 👋
+# Hi, I am Talha 👋
 
 Cyber Security student focused on learning how systems work and how to secure them.
 
