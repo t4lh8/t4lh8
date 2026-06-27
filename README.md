@@ -1,55 +1,283 @@
-# t4lh8
-# Hi, I am Talha 👋
+# <div align="center">
 
-Cyber Security student focused on learning how systems work and how to secure them.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Talha+Aker;Cyber+Security+Student;Future+Security+Engineer;Always+Learning+%7C+Always+Building;Think.+Hack.+Secure." />
+
+</div>
 
 ---
 
-## 🔐 Interests
+<div align="center">
 
-* Cyber Security
+## 🔥 Cyber Security | Network Security | Threat Analysis
+
+*"Security is not a product, but a process."*
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Talha Aker
+Location: Oslo, Norway 🇳🇴
+Education: Bachelor of Cyber Security
+University: Kristiania University College
+Expected Graduation: 2027
+
+Current Focus:
+  - Network Security
+  - Ethical Hacking
+  - Threat Detection
+  - Vulnerability Assessment
+  - Cloud Security
+  - Security Monitoring
+
+Learning:
+  - Penetration Testing
+  - SIEM
+  - SOC Operations
+  - Malware Analysis
+  - Digital Forensics
+
+Goal:
+  Become a Cyber Security Engineer
+```
+
+---
+
+# 🎓 Education
+
+## Kristiania University College
+
+**Bachelor of Cyber Security**
+
+**2023 — 2027**
+
+Relevant coursework
+
+* Cyber Security Fundamentals
+* Operating Systems
+* Computer Networks
 * Network Security
-* Vulnerability Analysis
+* Ethical Hacking
+* Cloud Security
+* Security Monitoring
+* Digital Technology
+* Databases
+* Programming
 * Risk Analysis
-* Linux
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Arsenal
 
-### 💻 Languages
+## Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
+<p align="left">
 
-### ⚙️ Tools & Scripting
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,bash" />
 
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge\&logo=linux)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
-
-### 🌐 Networking
-
-![TCP/IP](https://img.shields.io/badge/TCP/IP-lightgrey?style=for-the-badge)
-![Ports](https://img.shields.io/badge/Ports-grey?style=for-the-badge)
-![Protocols](https://img.shields.io/badge/Protocols-grey?style=for-the-badge)
+</p>
 
 ---
 
-## 📂 What I Do
+## Security Tools
 
-* Write CTF write-ups
-* Build small security tools
-* Take notes while learning
-* Analyze vulnerabilities
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,gcp" />
+
+</p>
+
+* Nmap
+* Wireshark
+* Burp Suite
+* Metasploit
+* SIEM
+* Kali Linux
+* OWASP Top 10
+* Nessus (Learning)
+* Splunk (Learning)
 
 ---
 
-## 📫 Contact
+# 🌐 Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/talha-aker-111a97289/)
+* TCP/IP
+* DNS
+* DHCP
+* HTTP / HTTPS
+* SSH
+* FTP
+* VLAN
+* VPN
+* Routing
+* Switching
+* Firewalls
+* IDS / IPS
 
 ---
 
-⭐ Always learning and improving step by step
+# 🛡 Cyber Security Interests
+
+* Penetration Testing
+* Threat Hunting
+* Incident Response
+* Security Monitoring
+* SOC Operations
+* Vulnerability Assessment
+* Secure System Design
+* Risk Management
+* Digital Forensics
+* Malware Analysis
+* Cloud Security
+* Blue Team
+* Red Team
+* OSINT
+* Capture The Flag (CTF)
+
+---
+
+# 🧠 Methodologies
+
+* Agile (Scrum)
+* Risk Assessment
+* Threat Modeling
+* Secure Development Lifecycle
+* Security Best Practices
+
+---
+
+# 📚 Currently Learning
+
+```text
+██████████████████░░░░ 85%
+
+✔ Network Security
+✔ Linux Administration
+✔ Python Automation
+✔ Ethical Hacking
+✔ SQL
+✔ Wireshark
+✔ Nmap
+
+Learning...
+
+▶ SIEM
+▶ Splunk
+▶ Azure Security
+▶ Malware Analysis
+▶ SOC Analyst Skills
+```
+
+---
+
+# 💻 What I'm Working On
+
+* 🔐 Building Security Tools
+* 🕵️ Vulnerability Research
+* 📖 CTF Write-ups
+* 🐍 Python Automation
+* 🌍 Network Analysis
+* ⚡ Linux Projects
+* 📚 Cyber Security Notes
+* 🚀 Open Source Contributions
+
+---
+
+# 🏆 Goals for 2026
+
+* Earn Security+
+* Build 20+ Cyber Security Projects
+* Publish Technical Write-ups
+* Master Linux
+* Contribute to Open Source
+* Participate in More CTFs
+* Learn Cloud Security
+* Learn Malware Analysis
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=t4lh8&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lh8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=t4lh8&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=t4lh8&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/t4lh8/t4lh8/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=t4lh8&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ☕ Quote
+
+> "The quieter you become, the more you are able to hear."
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/talha-aker-111a97289">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=t4lh8\&style=for-the-badge\&color=00ff41)
+
+### ⚡ Think • Hack • Secure ⚡
+
+*"Learning never stops. Every vulnerability is an opportunity to understand systems better."*
+
+</div>
+
