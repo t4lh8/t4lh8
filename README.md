@@ -170,16 +170,6 @@ Relevant coursework
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=t4lh8&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
