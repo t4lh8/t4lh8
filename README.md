@@ -10,7 +10,7 @@
 
 ## 🔥 Cyber Security | Network Security | Threat Analysis
 
-*"Portfolio: (https://portfolio-t4lh8s-projects.vercel.app/)"*
+*Portfolio: (https://portfolio-t4lh8s-projects.vercel.app/)*
 
 </div>
 
@@ -51,8 +51,6 @@ Goal:
 ## Kristiania University College
 
 **Bachelor of Cyber Security**
-
-**2023 — 2027**
 
 Relevant coursework
 
@@ -149,30 +147,6 @@ Relevant coursework
 
 ---
 
-# 📚 Currently Learning
-
-```text
-██████████████████░░░░ 85%
-
-✔ Network Security
-✔ Linux Administration
-✔ Python Automation
-✔ Ethical Hacking
-✔ SQL
-✔ Wireshark
-✔ Nmap
-
-Learning...
-
-▶ SIEM
-▶ Splunk
-▶ Azure Security
-▶ Malware Analysis
-▶ SOC Analyst Skills
-```
-
----
-
 # 💻 What I'm Working On
 
 * 🔐 Building Security Tools
@@ -186,56 +160,11 @@ Learning...
 
 ---
 
-# 🏆 Goals for 2026
-
-* Earn Security+
-* Build 20+ Cyber Security Projects
-* Publish Technical Write-ups
-* Master Linux
-* Contribute to Open Source
-* Participate in More CTFs
-* Learn Cloud Security
-* Learn Malware Analysis
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=t4lh8&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lh8&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # ⚡ GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=t4lh8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=t4lh8&theme=matrix&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/t4lh8/t4lh8/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
@@ -248,12 +177,6 @@ Learning...
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=t4lh8&theme=tokyo-night"/>
 
 </p>
-
----
-
-# ☕ Quote
-
-> "The quieter you become, the more you are able to hear."
 
 ---
 
@@ -276,8 +199,6 @@ Learning...
 ![](https://komarev.com/ghpvc/?username=t4lh8\&style=for-the-badge\&color=00ff41)
 
 ### ⚡ Think • Hack • Secure ⚡
-
-*"Learning never stops. Every vulnerability is an opportunity to understand systems better."*
 
 </div>
 
