@@ -94,7 +94,7 @@ Goal:      Cyber Security Engineer
 - 🔐 Building and documenting my own **security tools and labs**
 - 🕵️ **Vulnerability research** and CTF write-ups
 - 🐍 **Python automation** for recon and analysis
-- ☁️ **Cloud & DevSecOps** — Terraform, Docker and CI security scanning
+- ☁️ **Cloud & DevSecOps** with Terraform, Docker and CI security scanning
 
 ---
 
