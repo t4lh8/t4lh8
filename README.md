@@ -12,7 +12,7 @@
 ---
 
 🎓 Third-year **Cyber Security** student at Kristiania University College, Oslo
-🛠️ I build security tooling end to end — **detection, SOC automation, cloud hardening** and secure web apps
+🛠️ I build security tooling end to end, from **detection** and **SOC automation** to **cloud hardening** and secure web apps
 🎯 Currently looking for an **internship or graduate role** in cyber security
 
 ---
@@ -35,11 +35,11 @@ Goal:      Cyber Security Engineer
 | Project | What it does | Stack |
 |---|---|---|
 | 🛡️ [**ZeroTrust Sentinel**](https://github.com/t4lh8/ZeroTrust-Sentinel-AI-Based-Security-Platform) | Real-time security monitoring platform that flags suspicious logins, behaviour and traffic with AI anomaly detection; live alerts to a dashboard, JWT/RBAC, honeypots | C#/.NET, Blazor, PostgreSQL, SignalR, Docker |
-| 🔭 [**SOC Automation Home Lab**](https://github.com/t4lh8/SOC-Automation-Home-Lab) | End-to-end SOC: Wazuh detection → Shuffle automation → TheHive case, with analyst-approved response — set up as infrastructure as code | Wazuh, Shuffle, TheHive, Terraform, Docker |
-| ☁️ [**Cloud Security: Before vs After**](https://github.com/t4lh8/Cloud-Security-Before-After) | Insecure vs hardened AWS infrastructure in Terraform, scanned by Checkov in CI — 41 findings reduced to 0 | Terraform, AWS, Checkov, GitHub Actions |
+| 🔭 [**SOC Automation Home Lab**](https://github.com/t4lh8/SOC-Automation-Home-Lab) | End-to-end SOC: Wazuh detection → Shuffle automation → TheHive case, with analyst-approved response, all set up as infrastructure as code | Wazuh, Shuffle, TheHive, Terraform, Docker |
+| ☁️ [**Cloud Security: Before vs After**](https://github.com/t4lh8/Cloud-Security-Before-After) | Insecure vs hardened AWS infrastructure in Terraform, scanned by Checkov in CI (41 findings reduced to 0) | Terraform, AWS, Checkov, GitHub Actions |
 | 🌐 [**Cyber Threat Map**](https://github.com/t4lh8/Cyber-Threat-Map) | Animated real-time map of global cyber attacks with a live feed (simulated data) | JavaScript, D3.js, Canvas |
 | 🔑 [**PassGuard**](https://github.com/t4lh8/Passguard-Password-Strength-Checker) | Password strength and breach checker that queries Have I Been Pwned without sending the password (k-anonymity) | Python, JavaScript |
-| 🌊 [**MARE D'AKER**](https://github.com/t4lh8/MARE-D-AKER-A-Mediterranean-Fragrance-Online-Store) | Full perfume e-commerce storefront — catalogue, cart and a complete checkout flow | Vanilla JS, HTML, CSS |
+| 🌊 [**MARE D'AKER**](https://github.com/t4lh8/MARE-D-AKER-A-Mediterranean-Fragrance-Online-Store) | Full perfume e-commerce storefront with catalogue, cart and a complete checkout flow | Vanilla JS, HTML, CSS |
 
 ---
 
@@ -111,7 +111,7 @@ Goal:      Cyber Security Engineer
 
 ## 🧭 In Short
 
-I like understanding how systems break so I can help keep them secure — and I learn
+I like understanding how systems break so I can help keep them secure, and I learn
 fastest by building the real thing. Most of my projects go from an idea to a working,
 documented repo you can clone and run. If you're hiring for a cyber security internship
 or graduate role, or just want to talk shop, my inbox is open.
