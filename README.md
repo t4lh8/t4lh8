@@ -84,15 +84,6 @@ Goal:      Cyber Security Engineer
 - 🐍 **Python automation** for recon and analysis
 - ☁️ **Cloud & DevSecOps** with Terraform, Docker and CI security scanning
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=t4lh8&theme=tokyonight&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=t4lh8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
 ## 🧭 In Short
 
 I like understanding how systems break so I can help keep them secure, and I learn
