@@ -9,13 +9,9 @@
 
 </div>
 
----
-
 🎓 Third-year **Cyber Security** student at Kristiania University College, Oslo
 🛠️ I build security tooling end to end, from **detection** and **SOC automation** to **cloud hardening** and secure web apps
 🎯 Currently looking for an **internship or graduate role** in cyber security
-
----
 
 ## 👨‍💻 About Me
 
@@ -28,8 +24,6 @@ Focus:     Network Security · Threat Detection · SOC · Cloud Security
 Goal:      Cyber Security Engineer
 ```
 
----
-
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
@@ -40,8 +34,6 @@ Goal:      Cyber Security Engineer
 | 🌐 [**Cyber Threat Map**](https://github.com/t4lh8/Cyber-Threat-Map) | Animated real-time map of global cyber attacks with a live feed (simulated data) | JavaScript, D3.js, Canvas |
 | 🔑 [**PassGuard**](https://github.com/t4lh8/Passguard-Password-Strength-Checker) | Password strength and breach checker that queries Have I Been Pwned without sending the password (k-anonymity) | Python, JavaScript |
 | 🌊 [**MARE D'AKER**](https://github.com/t4lh8/MARE-D-AKER-A-Mediterranean-Fragrance-Online-Store) | Full perfume e-commerce storefront with catalogue, cart and a complete checkout flow | Vanilla JS, HTML, CSS |
-
----
 
 ## 🧰 Tech Arsenal
 
@@ -75,8 +67,6 @@ Goal:      Cyber Security Engineer
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 ## 🛡️ Security Focus
 
 `Penetration Testing` · `Threat Hunting` · `Incident Response` · `SOC Operations`
@@ -87,16 +77,12 @@ Goal:      Cyber Security Engineer
 
 **Methodologies:** Agile (Scrum) · Threat Modeling · Risk Assessment · Secure Development Lifecycle
 
----
-
 ## 🔭 What I'm Working On
 
 - 🔐 Building and documenting my own **security tools and labs**
 - 🕵️ **Vulnerability research** and CTF write-ups
 - 🐍 **Python automation** for recon and analysis
 - ☁️ **Cloud & DevSecOps** with Terraform, Docker and CI security scanning
-
----
 
 ## 📊 GitHub Stats
 
@@ -106,8 +92,6 @@ Goal:      Cyber Security Engineer
 ![Stats](https://github-readme-stats.vercel.app/api?username=t4lh8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
-
----
 
 ## 🧭 In Short
 
