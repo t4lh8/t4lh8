@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Talha+Aker;Cyber+Security+Student;Future+Security+Engineer;Always+Learning+%7C+Always+Building;Think.+Hack.+Secure." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Talha+Aker;Cyber+Security+Student;Future+Security+Engineer;Always+Learning+%7C+Always+Building;Think.+Hack.+Secure." />
 
 ### 🔐 Cyber Security · Network Security · Threat Analysis
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-t4lh8s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-t4lh8s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-aker-111a97289)
 
 </div>
@@ -120,12 +120,12 @@ or graduate role, or just want to talk shop, my inbox is open.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha28aker@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-aker-111a97289)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-t4lh8s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-t4lh8s-projects.vercel.app/)
 
 📍 Oslo, Norway
 
 ### ⚡ Think • Hack • Secure ⚡
 
-![Profile views](https://komarev.com/ghpvc/?username=t4lh8&style=for-the-badge&color=00ff41)
+![Profile views](https://komarev.com/ghpvc/?username=t4lh8&style=for-the-badge&color=00d4ff)
 
 </div>
